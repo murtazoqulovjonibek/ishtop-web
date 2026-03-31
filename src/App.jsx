@@ -104,7 +104,7 @@ function Home() {
             >
 
               {job.isPremium && (
-                <div className="absolute -top-3 right-5 bg-gradient-to-r from-orange-500 to-red-500 text-white text-[10px] font-black uppercase tracking-widest px-3 py-1 rounded-full shadow-lg">
+                <div className="absolute -top-3 right-5 bg-linear-to-r from-orange-500 to-red-500 text-white text-[10px] font-black uppercase tracking-widest px-3 py-1 rounded-full shadow-lg">
                   🔥 VIP ISH
                 </div>
               )}

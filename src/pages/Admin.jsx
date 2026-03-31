@@ -78,7 +78,7 @@ function Admin() {
 
             {/* VIP BADGE */}
             {job.isPremium && (
-              <div className="absolute -top-3 right-5 bg-gradient-to-r from-orange-500 to-red-500 text-white text-xs font-bold px-3 py-1 rounded-full">
+              <div className="absolute -top-3 right-5 bg-linear-to-r from-orange-500 to-red-500 text-white text-xs font-bold px-3 py-1 rounded-full">
                 🔥 VIP
               </div>
             )}
